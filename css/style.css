@@ -162,7 +162,7 @@ h2 {
 
   .ul-apple .apple-store:first-child {
     flex-basis: 100%;
-    max-width: 100%;
+    max-width: 95%;
   }
 
   .apple-store img {
@@ -253,8 +253,6 @@ h2 {
 .bg-gray {
   background-color: #d7d7d75c;
 }
-
-
 
 
 
@@ -392,8 +390,6 @@ h2 {
   display: inline-flex;
   padding-left: 16px;
   padding-right: 16px;
-  vertical-align: top;
-  white-space: normal;
 }
 
 .carousel__item--desktop-in-1 {
@@ -484,7 +480,7 @@ section {
   }
 
   .carousel__item--mobile-in-1 {
-    width: 70%;
+    width: 55%;
   }
 
   .carousel__item--mobile-in-2 {

@@ -200,7 +200,7 @@ h2 {
 
   .carousel__track {
     width: 250px;
-    height: 1250px;
+    height: 775px;
     display: flex;
     flex-wrap: wrap;
   }
@@ -480,7 +480,7 @@ section {
   }
 
   .carousel__item--mobile-in-1 {
-    width: 55%;
+    width: 51%;
   }
 
   .carousel__item--mobile-in-2 {
